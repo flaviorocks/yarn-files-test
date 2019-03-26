@@ -1,5 +1,5 @@
 {
-  "name": "yarn-files-test",
+  "name": "@flaviorocks/yarn-files-test",
   "version": "1.0.0",
   "description": "Demonstrate bug of yarn add ignoring files when installing from a git remote url",
   "main": "index.js",
